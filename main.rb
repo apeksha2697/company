@@ -35,7 +35,7 @@ class Main
       puts "3. All companies"
       puts "4. All Employees"
       puts "5. Employees in a paricular company"
-      puts "6. All Employees details of a company"
+      puts "6. details of a company's employees"
       puts "7. Find if any employee is present in a company?"
       puts "8. EXIT"
       option = gets.to_i
